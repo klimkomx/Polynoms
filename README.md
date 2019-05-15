@@ -1,2 +1,2 @@
 # Polynoms
-Primitive polynom calculator.
+Primitive polynom calculator on Qt.
